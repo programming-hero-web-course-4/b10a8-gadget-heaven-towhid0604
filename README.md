@@ -4,7 +4,7 @@ A modern e-commerce website built with React to sell gadgets like phones, laptop
 
 ## Live Website Link
 
-[**Gadget Haven - Live Website**](#) _(Replace with actual link)_
+[**Gadget Haven - Live Website**](https://assi-08.netlify.app/dashboard)
 
 ---
 
